@@ -1,0 +1,56 @@
+header{
+  background-color: gray;
+  display: flex;
+
+  height: 100px;
+  align-items: center;
+  color: white;
+  justify-content: space-between;
+
+
+
+}
+header h1
+
+header h2{
+  display: flex;
+
+}
+
+
+
+main{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+footer{
+  background-color: black;
+  color: gray;
+
+
+
+
+}
+nav{
+  background-color: black;
+  display: flex;
+
+}
+.layout{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+
+}
+
+.art1 {
+  display: flex;
+
+}
