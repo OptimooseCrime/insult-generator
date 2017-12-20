@@ -1,0 +1,77 @@
+body{
+  margin: 0px;
+}
+
+header{
+  background-color: gray;
+  display: flex;
+
+  height: 100px;
+  align-items: center;
+  color: white;
+  justify-content: space-between;
+  padding: 20px;
+
+
+}
+
+
+header h2{
+  display: flex;
+
+}
+
+
+main{
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+
+
+footer{
+  background-color: black;
+  color: red;
+}
+
+nav {
+  background-color: black;
+  display: flex;
+
+
+}
+
+.layout {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.rick-james{
+  float: left;
+  height: 80px;
+}
+
+
+.metal {
+  float: left;
+  height: 80px;
+  width: 80px;
+}
+
+.bowser {
+  float: left;
+  height: 80px;
+}
+button {
+  float: right;
+  color: orange;
+}
+a {
+  color: orange;
+  text-decoration: none;
+  padding: 5px;
+  float: right;
+}
