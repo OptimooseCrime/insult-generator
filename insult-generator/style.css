@@ -11,16 +11,11 @@ header{
   color: white;
   justify-content: space-between;
   padding: 20px;
-
-
 }
-
 
 header h2{
   display: flex;
-
 }
-
 
 main{
   background-color: white;
@@ -29,18 +24,14 @@ main{
   margin: 20px;
 }
 
-
-
 footer{
   background-color: black;
-  color: red;
+  color: grey;
 }
 
 nav {
   background-color: black;
   display: flex;
-
-
 }
 
 .layout {
@@ -48,12 +39,10 @@ nav {
   justify-content: space-between;
 }
 
-
 .rick-james{
   float: left;
   height: 80px;
 }
-
 
 .metal {
   float: left;
@@ -65,10 +54,12 @@ nav {
   float: left;
   height: 80px;
 }
+
 button {
   float: right;
   color: orange;
 }
+
 a {
   color: orange;
   text-decoration: none;
