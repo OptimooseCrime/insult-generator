@@ -13,9 +13,7 @@ header{
   padding: 20px;
 }
 
-header h2{
-  display: flex;
-}
+
 
 main{
   background-color: white;
@@ -29,9 +27,10 @@ footer{
   color: grey;
 }
 
-nav {
+.navstuff {
   background-color: black;
   display: flex;
+  color: white;
 }
 
 .layout {
@@ -60,7 +59,7 @@ button {
   color: orange;
 }
 
-a {
+.read-more {
   color: orange;
   text-decoration: none;
   padding: 5px;
